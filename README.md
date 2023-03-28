@@ -20,7 +20,7 @@
   <tr>
     <td align="center"><a href="topics/devops/README.md"><img src="images/devops.png" width="75px;" height="75px;" alt="DevOps" /><br /></a></td>
     <td align="center"><a href="topics/git/README.md"><img src="images/git.png" width="75px;" height="75px;" alt="Git"/><br /></a></td>
-    <td align="center"><a href="#network"><img src="images/network.png" width="75px;" height="75px;" alt="Network"/><br />/a></td>
+    <td align="center"><a href="#network"><img src="images/network.png" width="75px;" height="75px;" alt="Network"/><br /></td>
     <td align="center"><a href="#hardware"><img src="images/hardware.png" width="75px;" height="75px;" alt="Hardware"/><br /></a></td>
     <td align="center"><a href="topics/kubernetes/README.md"><img src="images/kubernetes.png" width="75px;" height="75px;" alt="kubernetes"/><br /></a></td>
   </tr>
@@ -36,31 +36,31 @@
   <tr>
       <td align="center"><a href="topics/cloud/README.md"><img src="images/cloud.png" width="75px;" height="75px;" alt="Cloud"/><br /></a></td>
       <td align="center"><a href="topics/aws/README.md"><img src="images/aws.png" width="100px;" height="75px;" alt="aws"/><br /></a></td>
-      <td align="center"><a href="topics/azure/README.md"><img src="images/azure.png" width="75px;" height="75px;" alt="azure"/><br /><b>Azure</b></a></td>
-      <td align="center"><a href="topics/gcp/README.md"><img src="images/googlecloud.png" width="70px;" height="70px;" alt="Google Cloud Platform"/><br /><b>Google Cloud Platform</b></a></td>
-      <td align="center"><a href="#openstack/README.md"><img src="images/openstack.png" width="75px;" height="75px;" alt="openstack"/><br /><b>OpenStack</b></a></td>
+      <td align="center"><a href="topics/azure/README.md"><img src="images/azure.png" width="75px;" height="75px;" alt="azure"/><br /></a></td>
+      <td align="center"><a href="topics/gcp/README.md"><img src="images/googlecloud.png" width="70px;" height="70px;" alt="Google Cloud Platform"/><br /></a></td>
+      <td align="center"><a href="#openstack/README.md"><img src="images/openstack.png" width="75px;" height="75px;" alt="openstack"/><br /></a></td>
   </tr>
 
   <tr>
-      <td align="center"><a href="#operating-system"><img src="images/os.png" width="75px;" height="75px;" alt="Operating System"/><br /><b>Operating System</b></a></td>
-      <td align="center"><a href="topics/linux/README.md"><img src="images/logos/linux.png" width="75px;" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
-      <td align="center"><a href="#virtualization"><img src="images/virtualization.png" width="75px;" height="75px;" alt="Virtualization"/><br /><b>Virtualization</b></a></td>
-      <td align="center"><a href="topics/dns/README.md"><img src="images/dns.png" width="75px;" height="75px;" alt="DNS"/><br /><b>DNS</b></a></td>
-      <td align="center"><a href="topics/shell/README.md"><img src="images/bash.png" width="75px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
+      <td align="center"><a href="#operating-system"><img src="images/os.png" width="75px;" height="75px;" alt="Operating System"/><br /></a></td>
+      <td align="center"><a href="topics/linux/README.md"><img src="images/logos/linux.png" width="75px;" height="75px;" alt="Linux"/><br /></a></td>
+      <td align="center"><a href="#virtualization"><img src="images/virtualization.png" width="75px;" height="75px;" alt="Virtualization"/><br /></a></td>
+      <td align="center"><a href="topics/dns/README.md"><img src="images/dns.png" width="75px;" height="75px;" alt="DNS"/><br /></a></td>
+      <td align="center"><a href="topics/shell/README.md"><img src="images/bash.png" width="75px;" height="75px;" alt="Bash"/><br /></a></td>
   </tr>
 
   <tr>
-      <td align="center"><a href="topics/databases/README.md"><img src="images/databases.png" width="75px;" height="75px;" alt="Databases"/><br /><b>Databases</b></a></td>
-      <td align="center"><a href="#sql"><img src="images/sql.png" width="75px;" height="75px;" alt="sql"/><br /><b>SQL</b></a></td>
-      <td align="center"><a href="#mongo"><img src="images/mongo.png" width="75px;" height="75px;" alt="Mongo"/><br /><b>Mongo</b></a></td>
-      <td align="center"><a href="#testing"><img src="images/testing.png" width="75px;" height="75px;" alt="Testing"/><br /><b>Testing</b></a></td>
-      <td align="center"><a href="#big-data"><img src="images/big-data.png" width="75px;" height="75px;" alt="Big Data"/><br /><b>Big Data</b></a></td>
+      <td align="center"><a href="topics/databases/README.md"><img src="images/databases.png" width="75px;" height="75px;" alt="Databases"/><br /></a></td>
+      <td align="center"><a href="#sql"><img src="images/sql.png" width="75px;" height="75px;" alt="sql"/><br /></a></td>
+      <td align="center"><a href="#mongo"><img src="images/mongo.png" width="75px;" height="75px;" alt="Mongo"/><br /></a></td>
+      <td align="center"><a href="#testing"><img src="images/testing.png" width="75px;" height="75px;" alt="Testing"/><br /></a></td>
+      <td align="center"><a href="#big-data"><img src="images/big-data.png" width="75px;" height="75px;" alt="Big Data"/><br /></a></td>
 
   </tr>
 
   <tr>
-      <td align="center"><a href="topics/cicd/README.md"><img src="images/cicd.png" width="75px;" height="75px;" alt="cicd"/><br /><b>CI/CD</b></a></td>
-      <td align="center"><a href="#certificates"><img src="images/certificates.png" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
+      <td align="center"><a href="topics/cicd/README.md"><img src="images/cicd.png" width="75px;" height="75px;" alt="cicd"/><br /><</a></td>
+      <td align="center"><a href="#certificates"><img src="images/certificates.png" width="75px;" height="75px;" alt="Certificates"/><br /></a></td>
       <td align="center"><a href="topics/containers/README.md"><img src="images/containers.png" width="75px;" height="75px;" alt="Containers"/><br /><b>Containers</b></a></td>
       <td align="center"><a href="topics/openshift/README.md"><img src="images/openshift.png" width="75px;" height="75px;" alt="OpenShift"/><br /></a></td>
       <td align="center"><a href="#storage"><img src="images/storage.png" width="75px;" height="75px;" alt="Storage"/><br /></a></td>
